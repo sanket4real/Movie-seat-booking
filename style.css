@@ -29,6 +29,8 @@ body {
 	padding: 5px 15px 5px 15px;
 	appearance: none;
 	user-select: none;
+	outline: none;
+	cursor: pointer;
 }
 
 .container {
